@@ -87,25 +87,6 @@ public class Plugin : Plugin<Config>
 
 </details>
 
-## ▌ ACTIVITY
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Redovsky&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF4D1A&icon_color=FF4D1A&border_color=30363D" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redovsky&layout=compact&theme=dark&bg_color=0D1117&title_color=FF4D1A&border_color=30363D" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Redovsky&theme=dark&background=0D1117&border=30363D&ring=FF4D1A&fire=FF4D1A&currStreakLabel=FF4D1A&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Redovsky&bg_color=0D1117&color=FF4D1A&line=FF4D1A&point=FFFFFF&area=true&area_color=FF4D1A&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Redovsky&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
-
 ## ▌ CONTACT
 
 <p align="center">
